@@ -83,7 +83,7 @@
 
 ---
 
-### 🛡️ Cybersecurity Tools
+### 🛡️ Cybersecurity Projects 
 
 | Project Name | Description | Repository Link |
 |--------------|-------------|-----------------|

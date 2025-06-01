@@ -83,4 +83,40 @@
 
 ---
 
+### 📂 Projects
+
+| Project Name | Description | Repository Link |
+|--------------|-------------|-----------------|
+| **Data Exposure Finder** | Scans for exposed sensitive data patterns in files or responses. | [GitHub Repo](https://github.com/Rememberful/data_exposure_finder.git) |
+| **Image Upload and Malware Detection** | Detects malicious payloads in uploaded image files. | [GitHub Repo](https://github.com/Rememberful/-Image-Upload-andMalware-Detection.git) |
+| **Basic Network Steganography** | Demonstrates data hiding techniques in network packets. | [GitHub Repo](https://github.com/Rememberful/Basic_network_steganography.git) |
+| **Bulk Email Sender** | Tool to automate sending mass emails using SMTP. | [GitHub Repo](https://github.com/Rememberful/bulk_email_sender.git) |
+| **Auto Reverse Agent** | Automates basic reverse engineering tasks for binaries. | [GitHub Repo](https://github.com/Rememberful/auto_reverser_agent.git) |
+| **Keylogger Detector** | Scans system for behavior or indicators of keyloggers. | [GitHub Repo](https://github.com/Rememberful/keylogger_detector.py.git) |
+| **IP Tracker** | Tracks geolocation and info for IP addresses. | [GitHub Repo](https://github.com/Rememberful/IP_tracker.git) |
+| **Graph Based Tool** | Visualizes threat relationships using graph structures. | [GitHub Repo](https://github.com/Rememberful/graph-based-tool.git) |
+| **Log Analyzer** | Parses and analyzes system/application logs for anomalies. | [GitHub Repo](https://github.com/Rememberful/Log_analyser.git) |
+| **Insights from WhatsApp Chats** | Extracts and visualizes statistics from exported WhatsApp chats. | [GitHub Repo](https://github.com/Rememberful/-Insights-from-WhatsApp-Chats.git) |
+| **Image Tracker** | Tracks changes or tampering in image metadata and pixels. | [GitHub Repo](https://github.com/Rememberful/image-tracker.git) |
+| **Email Header Analyzer** | Dissects and analyzes email headers for spoofing or phishing signs. | [GitHub Repo](https://github.com/Rememberful/Email-Header-Analyzer.git) |
+| **Malicious Link Checker** | Detects and flags suspicious URLs based on heuristics and reputation. | [GitHub Repo](https://github.com/Rememberful/link_checker.git) |
+| **Website Performance for DoS Detection** | Monitors website latency and uptime to detect potential DoS attacks. | [GitHub Repo](https://github.com/Rememberful/Website-Performance-for-DoS-Detection.git) |
+| **Symlink Checker** | Detects symlink abuses and vulnerabilities in file structures. | [GitHub Repo](https://github.com/Rememberful/Symlink_checker.git) |
+| **Secure Flag Crawl** | Crawls web apps for missing or misconfigured security flags. | [GitHub Repo](https://github.com/Rememberful/Secure_flag_crawl.git) |
+| **Cloud Service Misconfiguration Scanner** | Scans for insecure cloud service configurations. | [GitHub Repo](https://github.com/Rememberful/Cloud-Service-Misconfiguration-Scanner.git) |
+| **Privacy Policy Scanner for GDPR/CCPA** | Analyzes website privacy policies for compliance gaps. | [GitHub Repo](https://github.com/Rememberful/Privacy-Policy-Scanner-for-GDPR-CCPA.git) |
+| **XSS Testing** | Tool to test and validate cross-site scripting vulnerabilities. | [GitHub Repo](https://github.com/Rememberful/Cross-Site-Scripting-XSS-Testing-.git) |
+| **Session Hijacking Detection** | Detects and alerts on signs of session hijacking. | [GitHub Repo](https://github.com/Rememberful/-Detecting-Session-Hijacking.git) |
+| **Email Security Analysis** | Checks SPF, DKIM, DMARC records and email configurations. | [GitHub Repo](https://github.com/Rememberful/Email-Security-Analysis.git) |
+| **Password Security** | Analyzes password strength and leak exposure. | [GitHub Repo](https://github.com/Rememberful/Password-Security.git) |
+| **Web Scraping for Sensitive Data Exposure** | Scrapes websites for exposed sensitive information. | [GitHub Repo](https://github.com/Rememberful/Web-Scraping-for-Sensitive-Data-Exposure-.git) |
+| **Automated URL Vulnerability Scanning** | Automatically scans URLs for known security vulnerabilities. | [GitHub Repo](https://github.com/Rememberful/Automated-URL-Vulnerability-Scanning.git) |
+| **CyberSecCLI** | Command-line toolkit for basic security and OSINT tasks. | [GitHub Repo](https://github.com/Rememberful/CyberSecCLI.git) |
+| **AWS Cloudwatch Alarm** | Sets up alerts for AWS resources using CloudWatch. | [GitHub Repo](https://github.com/Rememberful/AWS-Cloudwatch-Alarm.git) |
+| **Detecting Online Fraud with Amazon Fraud Detector** | Uses Amazon’s service to detect and flag suspicious transactions. | [GitHub Repo](https://github.com/Rememberful/Detecting-Online-Fraud-with-Amazon-Fraud-Detector.git) |
+| **Chatbot using Amazon Lex** | Builds a conversational bot powered by AWS Lex. | [GitHub Repo](https://github.com/Rememberful/Chatbot-Using-Amazon-Lex.git) |
+| **Serverless Image Labeling with Rekognition** | Labels uploaded images using AWS Rekognition and Lambda. | [GitHub Repo](https://github.com/Rememberful/Build-Serverless-Architecture-to-Label-Images-with-Amazon-Rekognition.git) |
+| **MS SQL Server Instance on AWS** | Deploys and configures MS SQL Server on AWS cloud. | [GitHub Repo](https://github.com/Rememberful/MS-SQL-Server-Instance-on-AWS.git) |
+
+
 ✨ _Thank you for visiting my profile! Let's connect and collaborate on interesting cybersecurity and cloud projects._

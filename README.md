@@ -14,7 +14,7 @@
 - 🧪 Experienced in **Image-Based Malware Analysis**
 - ✍️ I write technical articles on [Medium](https://medium.com/@adii.utsav)
 - 📫 Reach me at: **adii.utsav@gmail.com**
-- 📄 [View My Resume](https://drive.google.com/file/d/1FYAvuhoG6DekukTrmJGgktkNO0QIGTm3/view?usp=sharing)
+- 🌟 [View My Resume](https://drive.google.com/file/d/1FYAvuhoG6DekukTrmJGgktkNO0QIGTm3/view?usp=sharing)
 
 ---
 

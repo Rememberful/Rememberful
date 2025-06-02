@@ -132,7 +132,7 @@
 |--------------|-------------|-----------------|
 | **Bulk Email Sender** | Tool to automate sending mass emails using SMTP. | [GitHub Repo](https://github.com/Rememberful/bulk_email_sender.git) |
 | **Image Tracker** | Tracks changes or tampering in image metadata and pixels. | [GitHub Repo](https://github.com/Rememberful/image-tracker.git) |
-
+| **Pdf Comparer** | Helps in identifying the fake pdfs. | [GitHub Repo](https://github.com/Rememberful/pdf_compare.git)|
 ---
 
 ✨ _Thank you for visiting my profile! Let's connect and collaborate on interesting cybersecurity and cloud projects._

@@ -119,7 +119,7 @@
 | **Serverless Image Labeling with Rekognition** | Labels uploaded images using AWS Rekognition and Lambda. | [GitHub Repo](https://github.com/Rememberful/Build-Serverless-Architecture-to-Label-Images-with-Amazon-Rekognition.git) |
 | **MS SQL Server Instance on AWS** | Deploys and configures MS SQL Server on AWS cloud. | [GitHub Repo](https://github.com/Rememberful/MS-SQL-Server-Instance-on-AWS.git) |
 
-### 💬 Messaging & Communication Analysis
+### 💬 Social Engineering Analysis Tools
 
 | Project Name | Description | Repository Link |
 |--------------|-------------|-----------------|

@@ -134,8 +134,11 @@
 | **Image Tracker** | Tracks changes or tampering in image metadata and pixels. | [GitHub Repo](https://github.com/Rememberful/image-tracker.git) |
 | **Pdf Comparer** | Helps in identifying the fake pdfs. | [GitHub Repo](https://github.com/Rememberful/pdf_compare.git)|
 ---
-### 🧰 My Open Source Contributions
+### 🤝 My Open Source Contributions
 
-| Project Name | Description | Repository Link |
+| Project Name | Repository Link |
+|--------------|-----------------|
 | **I-See-You**| [GitHub Repo](https://github.com/Viralmaniar/I-See-You.git)|
+
+---
 ✨ _Thank you for visiting my profile! Let's connect and collaborate on interesting cybersecurity and cloud projects._

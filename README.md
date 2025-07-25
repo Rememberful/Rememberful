@@ -140,5 +140,19 @@
 |--------------|-----------------|
 | **I-See-You**| [GitHub Repo](https://github.com/Viralmaniar/I-See-You.git)|
 
+### 🧰 Skills 
+
+| Skill | Proof Link |
+|--------------|-----------------|
+| **CyberSecurity**| [GitHub Repo1](https://github.com/Rememberful/CloudSecurity.git)|
+| **CyberSecurity-CEH**| [GitHub Repo](https://github.com/Rememberful/Cybersecurity_learned.git)|
+| **CloudSecurity**| [GitHub Repo](https://github.com/Rememberful/CyberSecurity.git)|
+| **DSA** | [GitHub Repo](https://github.com/Rememberful/DSA-Strivers-A2Z.git)|
+| **Cloud Computing** | [GitHub Repo](https://github.com/Rememberful/AWS.git)|
+| **Version Control** | [GitHub Repo](https://github.com/Rememberful/Git_and_github_notes.git)|
+
+
+
+
 ---
 ✨ _Thank you for visiting my profile! Let's connect and collaborate on interesting cybersecurity and cloud projects._

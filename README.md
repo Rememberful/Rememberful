@@ -143,14 +143,14 @@
 
 ### 🧰 Skills 
 
-| Skill | Proof Link |
-|--------------|-----------------|
-| **CyberSecurity**| [GitHub Repo1](https://github.com/Rememberful/CyberSecurity.git)|
-| **CyberSecurity-CEH**| [GitHub Repo](https://github.com/Rememberful/Cybersecurity_learned.git)|
-| **CloudSecurity**| [GitHub Repo](https://github.com/Rememberful/CloudSecurity.git)|
-| **DSA** | [GitHub Repo](https://github.com/Rememberful/DSA-Strivers-A2Z.git)|
-| **Cloud Computing** | [GitHub Repo](https://github.com/Rememberful/AWS.git)|
-| **Version Control** | [GitHub Repo](https://github.com/Rememberful/Git_and_github_notes.git)|
+| Skill | Status | Proof Link |
+|--------------|-----------------|-----------------|
+| **CyberSecurity**| Ongoing | [GitHub Repo1](https://github.com/Rememberful/CyberSecurity.git)|
+| **CyberSecurity-CEH**| Ongoing | [GitHub Repo](https://github.com/Rememberful/Cybersecurity_learned.git)|
+| **CloudSecurity**| Ongoing | [GitHub Repo](https://github.com/Rememberful/CloudSecurity.git)|
+| **DSA** | Ongoing | [GitHub Repo](https://github.com/Rememberful/DSA-Strivers-A2Z.git)|
+| **Cloud Computing** | Completed | [GitHub Repo](https://github.com/Rememberful/AWS.git)|
+| **Version Control** | Completed | [GitHub Repo](https://github.com/Rememberful/Git_and_github_notes.git)|
 
 
 

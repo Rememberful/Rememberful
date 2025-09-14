@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on **Steganalysis-based Malware Detection**
 - 🛡️ Skilled in **Threat Detection, Red/Blue Team Ops, Security Automation**
 - ☁️ Hands-on with **AWS** & other cloud platforms
-- 🧪 Experienced in **Image-Based Malware Analysis**
+- 🧪 Experienced in **CyberSecuirty, WebDev, CloudComputing, CloudSecurity**
 - ✍️ I write technical articles on [Medium](https://medium.com/@adii.utsav)
 - 📫 Reach me at: **adii.utsav@gmail.com**
 - 🌟 [View My Resume](https://drive.google.com/file/d/1IdL1Sh9Wg89ZBeKS_mJipWk4jAdc7mMV/view?usp=sharing)
@@ -145,9 +145,10 @@
 
 | Skill | Status | Proof Link |
 |--------------|-----------------|-----------------|
-| **CyberSecurity**| Ongoing | [GitHub Repo1](https://github.com/Rememberful/CyberSecurity.git)|
+| **CyberSecurity**| Ongoing | [GitHub Repo](https://github.com/Rememberful/CyberSecurity.git)|
 | **CyberSecurity-CEH**| Completed | [GitHub Repo](https://github.com/Rememberful/Cybersecurity_learned.git)|
 | **CloudSecurity**| Completed | [GitHub Repo](https://github.com/Rememberful/CloudSecurity.git)|
+| **Full Stack WebDev**| Ongoing | [GitHub Repo](https://github.com/Rememberful/CloudSecurity.git)|
 | **DSA** | Ongoing | [GitHub Repo](https://github.com/Rememberful/DSA-Strivers-A2Z.git)|
 | **Cloud Computing** | Completed | [GitHub Repo](https://github.com/Rememberful/AWS.git)|
 | **Version Control** | Completed | [GitHub Repo](https://github.com/Rememberful/Git_and_github_notes.git)|

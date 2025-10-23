@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Kumar</h1>
-<h3 align="center">Cybersecurity Enthusiast | Red/Blue Team | Malware Analysis | AWS | Cloud Security</h3>
+<h3 align="center">Cybersecurity Enthusiast | Red/Blue Team | Full Stack Developer | AWS | Cloud Security</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rememberful&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />

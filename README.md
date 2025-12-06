@@ -153,6 +153,7 @@
 | **JavaScript**| Ongoing | [GitHub Repo](https://github.com/Rememberful/Javascript-handson.git)|
 | **DSA** | Ongoing | [GitHub Repo](https://github.com/Rememberful/DSA-Strivers-A2Z.git)|
 | **Cloud Computing** | Completed | [GitHub Repo](https://github.com/Rememberful/AWS.git)|
+| **Machine Learning**| Completed | [GitHub Repo](https://github.com/Rememberful/machine_learning.git)|
 | **Version Control** | Completed | [GitHub Repo](https://github.com/Rememberful/Git_and_github_notes.git)|
 
 

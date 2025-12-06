@@ -148,6 +148,7 @@
 | **CyberSecurity**| Ongoing | [GitHub Repo](https://github.com/Rememberful/CyberSecurity.git)|
 | **CyberSecurity-CEH**| Completed | [GitHub Repo](https://github.com/Rememberful/Cybersecurity_learned.git)|
 | **CloudSecurity**| Completed | [GitHub Repo](https://github.com/Rememberful/CloudSecurity.git)|
+| **GenAI Security**| Ongoing | [GitHub Repo](https://github.com/Rememberful/Generative-AI-Security.git)|
 | **Full Stack WebDev**| Completed | [GitHub Repo](https://github.com/Rememberful/fullstack-secure.git)|
 | **JavaScript**| Ongoing | [GitHub Repo](https://github.com/Rememberful/Javascript-handson.git)|
 | **DSA** | Ongoing | [GitHub Repo](https://github.com/Rememberful/DSA-Strivers-A2Z.git)|

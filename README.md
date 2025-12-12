@@ -151,6 +151,7 @@
 | **GenAI Security**| Ongoing | [GitHub Repo](https://github.com/Rememberful/Generative-AI-Security.git)|
 | **Full Stack WebDev**| Completed | [GitHub Repo](https://github.com/Rememberful/fullstack-secure.git)|
 | **JavaScript**| Completed | [GitHub Repo](https://github.com/Rememberful/Javascript-handson.git)|
+| **Python**| Ongoing | [GitHub Repo](https://github.com/Rememberful/Python-handson.git)|
 | **DSA** | Ongoing | [GitHub Repo](https://github.com/Rememberful/DSA-Strivers-A2Z.git)|
 | **Cloud Computing** | Completed | [GitHub Repo](https://github.com/Rememberful/AWS.git)|
 | **Machine Learning**| Completed | [GitHub Repo](https://github.com/Rememberful/machine_learning.git)|

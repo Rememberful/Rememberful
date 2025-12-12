@@ -9,9 +9,9 @@
 
 ### 🚀 About Me
 - 🔭 I’m currently working on **Steganalysis-based Malware Detection**
-- 🛡️ Skilled in **Threat Detection, Red/Blue Team Ops, Full Stack Developer**
+- 🛡️ Skilled in **Red/Blue Team Ops, Full Stack Developer**
 - ☁️ Hands-on with **AWS** & other cloud platforms
-- 🧪 Experienced in **CyberSecuirty, WebDev, CloudComputing, CloudSecurity**
+- 🧪 Experienced in **CyberSecuirty, WebDev, CloudComputing, CloudSecurity, GenAI Security**
 - ✍️ I write technical articles on [Medium](https://medium.com/@adii.utsav)
 - 📫 Reach me at: **adii.utsav@gmail.com**
 - 🌟 [View My Resume](https://drive.google.com/file/d/1IdL1Sh9Wg89ZBeKS_mJipWk4jAdc7mMV/view?usp=sharing)

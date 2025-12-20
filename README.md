@@ -149,11 +149,11 @@
 | **CyberSecurity-CEH**| Completed | [GitHub Repo](https://github.com/Rememberful/Cybersecurity_learned.git)|
 | **CloudSecurity**| Completed | [GitHub Repo](https://github.com/Rememberful/CloudSecurity.git)|
 | **GenAI Security**| Ongoing | [GitHub Repo](https://github.com/Rememberful/Generative-AI-Security.git)|
+| **Cloud Computing** | Completed | [GitHub Repo](https://github.com/Rememberful/AWS.git)|
 | **Full Stack WebDev**| Completed | [GitHub Repo](https://github.com/Rememberful/fullstack-secure.git)|
 | **JavaScript**| Completed | [GitHub Repo](https://github.com/Rememberful/Javascript-handson.git)|
 | **Python**| Completed | [GitHub Repo](https://github.com/Rememberful/Python-handson.git)|
 | **DSA** | Ongoing | [GitHub Repo](https://github.com/Rememberful/DSA-Strivers-A2Z.git)|
-| **Cloud Computing** | Completed | [GitHub Repo](https://github.com/Rememberful/AWS.git)|
 | **Machine Learning**| Completed | [GitHub Repo](https://github.com/Rememberful/machine_learning.git)|
 | **Version Control** | Completed | [GitHub Repo](https://github.com/Rememberful/Git_and_github_notes.git)|
 

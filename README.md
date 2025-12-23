@@ -157,6 +157,10 @@
 | **Machine Learning**| Completed | [GitHub Repo](https://github.com/Rememberful/machine_learning.git)|
 | **Version Control** | Completed | [GitHub Repo](https://github.com/Rememberful/Git_and_github_notes.git)|
 | **Numpy** | Completed | [GitHub Repo](https://github.com/Rememberful/NumPy-handson.git)|
+| **Pandas** | Completed | [GitHub Repo](https://github.com/Rememberful/Pandas-handson.git)|
+| **Matplot** | Completed | [GitHub Repo](https://github.com/Rememberful/Matplotlib-handson.git)|
+
+
 
 
 

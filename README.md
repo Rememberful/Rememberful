@@ -187,9 +187,10 @@ I'm a **Cybersecurity Engineer** and **Full Stack Developer** passionate about b
 | 🎓 CyberSecurity – CEH | ✅ Completed | [View](https://github.com/Rememberful/Cybersecurity_learned.git) |
 | ☁️ Cloud Security | ✅ Completed | [View](https://github.com/Rememberful/CloudSecurity.git) |
 | 🤖 GenAI Security | 🔄 Ongoing | [View](https://github.com/Rememberful/Generative-AI-Security.git) |
-| 🌐 Web Application Security | 🔄 Ongoing | [View](https://github.com/Rememberful/Web-Application-Security-Handson.git) |
+| 🌐 Web Application Security | ✅ Completed | [View](https://github.com/Rememberful/Web-Application-Security-Handson.git) |
 | 🏗️ Cloud Computing (AWS) | ✅ Completed | [View](https://github.com/Rememberful/AWS.git) |
 | 💻 Full Stack Web Dev | ✅ Completed | [View](https://github.com/Rememberful/fullstack-secure.git) |
+| ⚡ ReactJS |✅ Completed | [View](https://github.com/Rememberful/ReactJS-handson.git) |
 | 📜 JavaScript | ✅ Completed | [View](https://github.com/Rememberful/Javascript-handson.git) |
 | 🐍 Python | ✅ Completed | [View](https://github.com/Rememberful/Python-handson.git) |
 | 🧩 DSA | 🔄 Ongoing | [View](https://github.com/Rememberful/DSA-Strivers-A2Z.git) |
@@ -199,6 +200,7 @@ I'm a **Cybersecurity Engineer** and **Full Stack Developer** passionate about b
 | 📐 NumPy | ✅ Completed | [View](https://github.com/Rememberful/NumPy-handson.git) |
 | 🐼 Pandas | ✅ Completed | [View](https://github.com/Rememberful/Pandas-handson.git) |
 | 📊 Matplotlib | ✅ Completed | [View](https://github.com/Rememberful/Matplotlib-handson.git) |
+
 
 </div>
 
